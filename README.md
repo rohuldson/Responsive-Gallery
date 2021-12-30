@@ -11,4 +11,8 @@ With features still very simple, but as my knowledge grows I will add new featur
 
 ## Screen of the project
 
-![alt text](http://github.com/rohuldson/Responsive-Gallery/blob/master/images/basic-gallery-fig1.png/to/img.png)
+![alt text](https://raw.githubusercontent.com/rohuldson/Responsive-Gallery/master/images/basic-gallery-fig1.png)
+
+## LightBox
+
+![alt text](https://raw.githubusercontent.com/rohuldson/Responsive-Gallery/master/images/basic-gallery-fig2.png)
